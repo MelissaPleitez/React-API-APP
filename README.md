@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+
+APPLICATION VIEW:
+
+![rickAndMortyWeb](https://user-images.githubusercontent.com/92410851/218017185-fad4c991-c55e-49fa-b2f6-8665d15df3ef.PNG)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
